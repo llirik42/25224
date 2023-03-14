@@ -2,31 +2,31 @@
 * [Очереди на сдачу](https://docs.google.com/document/d/1gexnCeMQZJAviWcZjjtGuiEM3a5stuFkmGsj32bg7Zg/edit)
 * [Правила очереди](https://docs.google.com/document/d/1zienH2EdLOoZcEYlik8g64C_onRnxcU_vPiiDED-erU/edit)
 * [Записи лекций с предыдущих лет](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit#heading=h.war8jjn7o012)
-##### ОПП
+### ОПП
 * [Сайт курса](https://ssd.sscc.ru/ru/chair/nsu/parallel-programming)
 * [Группа вк Власенко](https://vk.com/club210823979)
 * [Сайт кластера](http://nusc.nsu.ru/wiki/doku.php/doc/index)
-##### ООП
+### ООП
 * [Регистрация своих игр для второй ЗАДАЧИ по ОПП](https://docs.google.com/document/d/1PwHRDb5V-LNrCD4qO6lSs3m2WJFUBIQ_DWuiKTgC09Q/edit)
 * [Телеграм Савенко](https://t.me/dsavenko)
 * [Сайт Рылова с задачами](https://sites.google.com/site/nguoop)
 
 ***Теперь чтобы ваш код посмотрели нужно непосредственно написать об этом в telegram, если ваш код готов к сдаче, вам так и напишут (записываться в старую очередь теперь не нужно)***
-##### Сети
+### Сети
 * [Журнал успеваемости](https://disk.yandex.ru/i/pExuIs8_b615Vg)
 * [Сайт с курсом](https://netacad.sadlab.su/)
 * [Группа вк Хазанкина](https://vk.com/isocsiberia)
 * [Записанный курс по Networking Essentials (наш курс)](https://www.youtube.com/playlist?list=PLRQnsrUwvHap6Mdzp8rAjqUjKfZQp5i9O)
 * [Записанный курс по CCNA(для общего развития)](https://www.youtube.com/playlist?list=PLHpWwR6fSBN5gTzVFoNbKfYi7ziZfxjwf)
-##### ОСИ
+### ОСИ
 * [Группа вк Рутмана](https://vk.com/nsu_fit_os)
 * [Задачи](https://vk.com/doc3993047_656928253?hash=zjnLWZRh3Ywrs3DnYTv02hjA8XvtzAN3dDShEPSsR7H&dl=hdVOxF2UUDQvNPsDcJZleLGwMFDiPLTGzXgyT1o4oP4)
-##### Физика
+### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
 * [Методичка](http://phys.nsu.ru/fit/Курс%20лекций%202020.pdf)
 
 ***Сдача задач - понедельник, 18:10, 405гк***
-##### Риторика
+### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
-##### Английский
+### Английский
 * [Яндекс-диск с материалами](https://disk.yandex.ru/d/fDQbES-nESWUUQ)
