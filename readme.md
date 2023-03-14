@@ -10,6 +10,7 @@
 * [Регистрация своих игр для второй ЗАДАЧИ по ОПП](https://docs.google.com/document/d/1PwHRDb5V-LNrCD4qO6lSs3m2WJFUBIQ_DWuiKTgC09Q/edit)
 * [Телеграм Савенко](https://t.me/dsavenko)
 * [Сайт Рылова с задачами](https://sites.google.com/site/nguoop)
+
 ***Теперь чтобы ваш код посмотрели нужно непосредственно написать об этом в telegram, если ваш код готов к сдаче, вам так и напишут (записываться в старую очередь теперь не нужно)***
 ##### Сети
 * [Журнал успеваемости](https://disk.yandex.ru/i/pExuIs8_b615Vg)
@@ -23,6 +24,7 @@
 ##### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
 * [Методичка](http://phys.nsu.ru/fit/Курс%20лекций%202020.pdf)
+
 ***Сдача задач - понедельник, 18:10, 405гк***
 ##### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
