@@ -18,8 +18,6 @@
 * [Журнал успеваемости](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FUCI71jLhaxGDtHtNF0GDtfhZJN1hxKmwQ9ak4dMbPCm1ZJkFLg2cIdOxULDPda7Xq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Журнал%20практических%20занятий%20Сетевые%20технологии%202023.xlsx)
 * [Сайт с курсом](https://netacad.sadlab.su/legacy/NetEss/1.0/ru/)
 * [Группа вк Хазанкина](https://vk.com/isocsiberia)
-* [Записанный курс по Networking Essentials (наш курс)](https://www.youtube.com/playlist?list=PLRQnsrUwvHap6Mdzp8rAjqUjKfZQp5i9O)
-* [Записанный курс по CCNA (для общего развития)](https://www.youtube.com/playlist?list=PLHpWwR6fSBN5gTzVFoNbKfYi7ziZfxjwf)
 ### ОСИ
 * [Группа вк Рутмана](https://vk.com/nsu_fit_os)
 * [Задачи](https://vk.com/doc3993047_656928253?hash=zjnLWZRh3Ywrs3DnYTv02hjA8XvtzAN3dDShEPSsR7H&dl=hdVOxF2UUDQvNPsDcJZleLGwMFDiPLTGzXgyT1o4oP4)
@@ -27,7 +25,7 @@
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
 * [Методичка](http://phys.nsu.ru/fit/Курс%20лекций%202020.pdf)
 
-***Сдача задач - понедельник, 18:10, 405гк***
+***Сдача задач — понедельник, 18:10, 405гк***
 ### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
 ### Английский
