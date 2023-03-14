@@ -19,7 +19,7 @@
 * [Сайт с курсом](https://netacad.sadlab.su/)
 * [Группа вк Хазанкина](https://vk.com/isocsiberia)
 * [Записанный курс по Networking Essentials (наш курс)](https://www.youtube.com/playlist?list=PLRQnsrUwvHap6Mdzp8rAjqUjKfZQp5i9O)
-* [Записанный курс по CCNA(для общего развития)](https://www.youtube.com/playlist?list=PLHpWwR6fSBN5gTzVFoNbKfYi7ziZfxjwf)
+* [Записанный курс по CCNA (для общего развития)](https://www.youtube.com/playlist?list=PLHpWwR6fSBN5gTzVFoNbKfYi7ziZfxjwf)
 ### ОСИ
 * [Группа вк Рутмана](https://vk.com/nsu_fit_os)
 * [Задачи](https://vk.com/doc3993047_656928253?hash=zjnLWZRh3Ywrs3DnYTv02hjA8XvtzAN3dDShEPSsR7H&dl=hdVOxF2UUDQvNPsDcJZleLGwMFDiPLTGzXgyT1o4oP4)
