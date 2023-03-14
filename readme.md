@@ -9,7 +9,7 @@
 * [Группа вк Власенко](https://vk.com/club210823979)
 * [Сайт кластера](http://nusc.nsu.ru/wiki/doku.php/doc/index)
 ### ООП
-* [Регистрация своих игр для второй ЗАДАЧИ по ОПП](https://docs.google.com/document/d/1PwHRDb5V-LNrCD4qO6lSs3m2WJFUBIQ_DWuiKTgC09Q/edit)
+* [Регистрация своих игр для второй ЗАДАЧИ по ООП](https://docs.google.com/document/d/1PwHRDb5V-LNrCD4qO6lSs3m2WJFUBIQ_DWuiKTgC09Q/edit)
 * [Телеграм Савенко](https://t.me/dsavenko)
 * [Сайт Рылова с задачами](https://sites.google.com/site/nguoop)
 
