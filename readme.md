@@ -28,6 +28,8 @@
 * [Методичка](http://phys.nsu.ru/fit/Курс%20лекций%202020.pdf)
 
 ***Сдача задач - понедельник, 18:10, 405гк***
+### ТВиМС
+* [Задачник](https://drive.google.com/file/d/1PvsQ0oKUkpW8rw2ZroCJXJvhIy45WWWF/view)
 ### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
 ### Английский
