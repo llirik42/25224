@@ -16,7 +16,7 @@
 ***Теперь чтобы ваш код посмотрели нужно непосредственно написать об этом в telegram, если ваш код готов к сдаче, вам так и напишут (записываться в старую очередь теперь не нужно)***
 ### Сети
 * [Журнал успеваемости](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FUCI71jLhaxGDtHtNF0GDtfhZJN1hxKmwQ9ak4dMbPCm1ZJkFLg2cIdOxULDPda7Xq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Журнал%20практических%20занятий%20Сетевые%20технологии%202023.xlsx)
-* [Сайт с курсом](https://netacad.sadlab.su/)
+* [Сайт с курсом](https://netacad.sadlab.su/legacy/NetEss/1.0/ru/)
 * [Группа вк Хазанкина](https://vk.com/isocsiberia)
 * [Записанный курс по Networking Essentials (наш курс)](https://www.youtube.com/playlist?list=PLRQnsrUwvHap6Mdzp8rAjqUjKfZQp5i9O)
 * [Записанный курс по CCNA (для общего развития)](https://www.youtube.com/playlist?list=PLHpWwR6fSBN5gTzVFoNbKfYi7ziZfxjwf)
