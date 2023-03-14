@@ -6,7 +6,7 @@
 * [Nsumedia](https://www.nsumedia.ru/main_potok)
 ### ОПП
 * [Сайт курса](https://ssd.sscc.ru/ru/chair/nsu/parallel-programming)
-* [Группа вк Власенко](https://vk.com/club210823979)
+* [Группа Власенко в вк](https://vk.com/club210823979)
 * [Сайт кластера](http://nusc.nsu.ru/wiki/doku.php/doc/index)
 ### ООП
 * [Регистрация своих игр для второй ЗАДАЧИ по ООП](https://docs.google.com/document/d/1PwHRDb5V-LNrCD4qO6lSs3m2WJFUBIQ_DWuiKTgC09Q/edit)
@@ -17,9 +17,9 @@
 ### Сети
 * [Журнал успеваемости](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FUCI71jLhaxGDtHtNF0GDtfhZJN1hxKmwQ9ak4dMbPCm1ZJkFLg2cIdOxULDPda7Xq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Журнал%20практических%20занятий%20Сетевые%20технологии%202023.xlsx)
 * [Сайт с курсом](https://netacad.sadlab.su/legacy/NetEss/1.0/ru/)
-* [Группа вк Хазанкина](https://vk.com/isocsiberia)
+* [Группа Хазанкина в вк](https://vk.com/isocsiberia)
 ### ОСИ
-* [Группа вк Рутмана](https://vk.com/nsu_fit_os)
+* [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 * [Задачи](https://vk.com/doc3993047_656928253?hash=zjnLWZRh3Ywrs3DnYTv02hjA8XvtzAN3dDShEPSsR7H&dl=hdVOxF2UUDQvNPsDcJZleLGwMFDiPLTGzXgyT1o4oP4)
 ### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
