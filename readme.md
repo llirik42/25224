@@ -21,6 +21,7 @@
 ### ОСИ
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 * [Задачи](https://vk.com/doc3993047_656928253?hash=zjnLWZRh3Ywrs3DnYTv02hjA8XvtzAN3dDShEPSsR7H&dl=hdVOxF2UUDQvNPsDcJZleLGwMFDiPLTGzXgyT1o4oP4)
+* [Сервер в дискорде](https://discord.gg/nU54nNGR)
 ### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
 * [Методичка](http://phys.nsu.ru/fit/Курс%20лекций%202020.pdf)
