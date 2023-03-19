@@ -19,6 +19,7 @@
 * [Журнал успеваемости](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FUCI71jLhaxGDtHtNF0GDtfhZJN1hxKmwQ9ak4dMbPCm1ZJkFLg2cIdOxULDPda7Xq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Журнал%20практических%20занятий%20Сетевые%20технологии%202023.xlsx)
 * [Сайт с курсом](https://netacad.sadlab.su/legacy/NetEss/1.0/ru/)
 * [Группа Хазанкина в вк](https://vk.com/isocsiberia)
+* [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
 ### ОСИ
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 * [Задачи](https://vk.com/doc3993047_656928253?hash=zjnLWZRh3Ywrs3DnYTv02hjA8XvtzAN3dDShEPSsR7H&dl=hdVOxF2UUDQvNPsDcJZleLGwMFDiPLTGzXgyT1o4oP4)
