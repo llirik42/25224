@@ -33,3 +33,5 @@
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
 ### Английский
 * [Яндекс-диск с материалами](https://disk.yandex.ru/d/fDQbES-nESWUUQ)
+
+https://docs.google.com/presentation/d/1lHrXeJr-VqaJ-7NRsFjEF4fFy0tn7mnzdfOk8D8zKBo/edit#slide=id.p
