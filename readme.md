@@ -30,6 +30,7 @@
 ### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
 * [Методичка](http://phys.nsu.ru/fit/Курс%20лекций%202020.pdf)
+
 ***Сдача задач — четверг, 18:10, 405гк***
 ### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
