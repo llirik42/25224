@@ -25,7 +25,7 @@
 * [Плейлист по мобильным сетям](https://www.youtube.com/playlist?list=PL70qXPb9p9Kl1vjGqqeoI-ZXNAMHkb_gk)
 ### ОСИ
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
-* [Задачи](https://drive.google.com/file/d/1MRUgN_LihFQ7ebLDRzBJzwUf3VugC1SQ/view?usp=sharing)
+* [Задачи](https://drive.google.com/file/d/1W9sc4mnT2TZGs293ahZqPH0fUHRBtPfs/view?usp=sharing)
 * [Сервер в дискорде](https://discord.gg/nU54nNGR)
 ### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
