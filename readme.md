@@ -34,5 +34,3 @@
 ***Сдача задач — четверг, 18:10, 405гк***
 ### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
-### Английский
-* [Яндекс-диск с материалами](https://disk.yandex.ru/d/fDQbES-nESWUUQ)
