@@ -20,7 +20,7 @@
 * [Сайт с курсом (netacad)](https://netacad.sadlab.su/legacy/NetEss/1.0/ru/)
 * [Группа Хазанкина в вк](https://vk.com/isocsiberia)
 * [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
-* [Сайт с курсом (el.nsu)](https://el.nsu.ru/enrol/index.php?id=1592)
+* [Сайт с курсом (el.nsu)](https://el.nsu.ru/course/view.php?id=1798)
 * [Вводный плейлист по мобильным сетям](https://www.youtube.com/playlist?list=PL70qXPb9p9KkMNJHSUwyWAVvJpwqET5nt)
 * [Плейлист по мобильным сетям](https://www.youtube.com/playlist?list=PL70qXPb9p9Kl1vjGqqeoI-ZXNAMHkb_gk)
 ### ОСИ
