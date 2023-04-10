@@ -24,6 +24,7 @@
 * [Группа Хазанкина в вк](https://vk.com/isocsiberia)
 * [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
 * [Сайт с курсом (el.nsu)](https://el.nsu.ru/course/view.php?id=1798)
+* [Полезная дока по кластеру](https://drive.google.com/file/d/1J8UTcBExZCbe3IbT0IcKV3l0JA4p9cPk/view?usp=sharing)
 
 ### ОСИ
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
