@@ -6,6 +6,7 @@
 * [Записи лекций с предыдущих лет](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit#heading=h.war8jjn7o012)
 * [Отзывы о преподавателях](https://docs.google.com/document/u/0/d/16hbDYg7dMCo3DLn8NgGGI-eOoDxosUn0yKN1fwrPcsA/mobilebasic)
 * [Nsumedia](https://www.nsumedia.ru/main_potok)
+* [Отзывы о спецкурсах](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit?pli=1#gid=0)
 
 ### ОПП
 * [Сайт курса](https://ssd.sscc.ru/ru/chair/nsu/parallel-programming)
@@ -33,6 +34,8 @@
 
 ### Физика
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
+* [Симлятор по электротехнике](https://www.falstad.com/circuit/)
+* [Симулятор по оптике](https://phydemo.app/ray-optics/)
 
 ***Сдача задач — четверг, 18:10, 405гк***
 
