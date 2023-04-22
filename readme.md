@@ -8,6 +8,7 @@
 * [Nsumedia](https://www.nsumedia.ru/main_potok)
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit?pli=1#gid=0)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1fi50FOXWN4ifGXRrWrxlxGoxL5Lj4oRQwPbXHWPQeKg/edit#gid=1706969288)
+* [Распределение на дисциплины по выбору](http://ccfit.nsu.ru/~nosova/)
 
 ### ОПП
 * [Сайт курса](https://ssd.sscc.ru/ru/chair/nsu/parallel-programming)
