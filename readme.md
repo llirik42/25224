@@ -38,7 +38,9 @@
 * [Симлятор по электротехнике](https://www.falstad.com/circuit/)
 * [Симулятор по оптике](https://phydemo.app/ray-optics/)
 
-***Сдача задач — четверг, 18:10, 405гк***
+***Сдача задач — понедельник, 18:10, 412гк***
+
+***27.04 — пара в 18:10 (аудиторию найти самим)*** 
 
 ### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
