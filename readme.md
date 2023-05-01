@@ -30,7 +30,7 @@
 
 ### ОСИ
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
-* [Задачи](https://drive.google.com/file/d/1W9sc4mnT2TZGs293ahZqPH0fUHRBtPfs/view?usp=sharing)
+* [Задачи](https://drive.google.com/file/d/1XTBunz7XzV0ARM6MDotbgI0Ngz8KDOLi/view?usp=sharing)
 * [Сервер в дискорде](https://discord.gg/nU54nNGR)
 
 ### Физика
