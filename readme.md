@@ -20,6 +20,7 @@
 * [Сайт курса](https://ssd.sscc.ru/ru/chair/nsu/parallel-programming)
 * [Группа Власенко в вк](https://vk.com/club210823979)
 * [Сайт кластера](http://nusc.nsu.ru/wiki/doku.php/doc/index)
+* [Тест](https://docs.google.com/document/d/1S1sXeh9pNRs1nn5J7id5Xd62d_H5f-2kr9C3q9zx6JQ/edit)
 
 ### ООП
 * [Регистрация своих игр для второй ЗАДАЧИ по ООП](https://docs.google.com/document/d/1PwHRDb5V-LNrCD4qO6lSs3m2WJFUBIQ_DWuiKTgC09Q/edit)
