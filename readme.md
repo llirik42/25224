@@ -49,3 +49,5 @@
 
 ### Риторика
 * [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
+
+***Поставить автоматы в зачётку: 18.05, 12:20-13:00 (аудитория 2262); 25.05, 11:30-12:40 (аудиторий 2262)***
