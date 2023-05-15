@@ -3,6 +3,7 @@
 * [Очереди на сдачу](https://docs.google.com/document/d/1gexnCeMQZJAviWcZjjtGuiEM3a5stuFkmGsj32bg7Zg/edit)
 * [Правила очереди](https://docs.google.com/document/d/1zienH2EdLOoZcEYlik8g64C_onRnxcU_vPiiDED-erU/edit)
 * [Расписание](https://table.nsu.ru/group/21203)
+* [Экзамены](https://table.nsu.ru/exam/21203)
 * [Записи лекций с предыдущих лет](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit#heading=h.war8jjn7o012)
 * [Отзывы о преподавателях](https://docs.google.com/document/u/0/d/16hbDYg7dMCo3DLn8NgGGI-eOoDxosUn0yKN1fwrPcsA/mobilebasic)
 * [Nsumedia](https://www.nsumedia.ru/main_potok)
