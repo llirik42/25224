@@ -46,15 +46,3 @@
 * [Месячные задания](https://drive.google.com/file/d/1m4WnJljdUzpimPCravvR5925KeBwOEXv/view?usp=sharing)
 * [Симлятор по электротехнике](https://www.falstad.com/circuit/)
 * [Симулятор по оптике](https://phydemo.app/ray-optics/)
-
-### Риторика
-* [Презентации](https://docs.google.com/spreadsheets/d/1J9ixaqxwQDEenXhdvqIBYToFcAqyqTv2_xolq4QhhTQ/edit?pli=1#gid=0)
-
-***Поставить автоматы в зачётку:*** 
-- 18.05, 12:20-13:00 (аудитория 2262)
-- 25.05, 11:30-12:40 (аудитория 2262)
-
-### Философия
-
-***Поставить автоматы в зачётку:*** 
-- 25.05, 16:20-18:10 (аудитория 3107)
