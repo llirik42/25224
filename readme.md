@@ -17,4 +17,4 @@
 * [Сервер в дискорде](https://discord.gg/nU54nNGR)
 
 ## Физика
-* [Симлятор по электротехнике](https://www.falstad.com/circuit/)
+* [Симулятор по электротехнике](https://www.falstad.com/circuit/)
