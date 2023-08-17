@@ -12,7 +12,7 @@
 
 ## Базы данных
 
-***На медии в разделе БД 6 семестра есть экзаменационный минимум***
+***На [медии](https://www.nsumedia.ru/main_potok) в разделе БД 6 семестра есть экзаменационный минимум***
 
 ### Google-формы для подготовки к тестам
 * [Тесты 1 и 2](https://docs.google.com/forms/d/e/1FAIpQLSftTzNRV76ZmXtdrQcRH9CDDsvL3789nO-YcFQZ0MhIaWmeig/viewform)
