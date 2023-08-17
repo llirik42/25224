@@ -30,4 +30,4 @@
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 
 ## Электротехника и электроника
-* [Симулятор по электротехнике](https://www.falstad.com/circuit/)
+* [Симулятор электрических схем](https://www.falstad.com/circuit/)
