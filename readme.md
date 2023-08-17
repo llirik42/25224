@@ -28,7 +28,6 @@
 
 ## ОСИ
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
-* [Сервер в дискорде](https://discord.gg/nU54nNGR)
 
 ## Электротехника и электроника
 * [Симулятор по электротехнике](https://www.falstad.com/circuit/)
