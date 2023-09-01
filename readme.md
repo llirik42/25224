@@ -31,3 +31,8 @@
 
 ## Электротехника и электроника
 * [Симулятор электрических схем](https://www.falstad.com/circuit/)
+
+## Сети
+
+* [Сайт Ипполитова с лабами и вопросами к экзамену](http://fit.ippolitov.me/CN_2/2022/)
+* [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
