@@ -23,13 +23,16 @@
 * [Тест 6](https://docs.google.com/forms/d/e/1FAIpQLSeiuzk8FTSroiivdO3dwtNPw4KQ9_1C9aRqJ4DVL3-RqhixOg/viewform)
 
 ### Ответы на тесты
+
 * [Караваева](http://ccfit.nsu.ru/~karavaev/)
 * [Муратова(2022-2023)](https://drive.google.com/file/d/1nwUE61dClTloFAOejwWzb0Bb4IcYtNBV/view)
 
 ## ОСИ
+
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 
 ## Электротехника и электроника
+
 * [Симулятор электрических схем](https://www.falstad.com/circuit/)
 
 ## Сети
