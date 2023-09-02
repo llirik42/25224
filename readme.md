@@ -36,3 +36,7 @@
 
 * [Сайт Ипполитова с лабами и вопросами к экзамену](http://fit.ippolitov.me/CN_2/2022/)
 * [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
+
+## ООАиД
+
+* [Файлы курса](https://ai.nsu.ru/projects/ooad/files)
