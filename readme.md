@@ -10,6 +10,13 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit?pli=1#gid=0)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1fi50FOXWN4ifGXRrWrxlxGoxL5Lj4oRQwPbXHWPQeKg/edit#gid=1706969288)
 
+## Практика
+
+* [<<Инструкция>> по практике](https://diplom.nsu.ru/pluginfile.php/11073/mod_resource/content/1/сентябрь%202023_Информационное%20письмо%20о%20практике%20для%20бакалавров%203%20курса%20каф%20СИ%20ПИиКН.docx.pdf)
+* [Перечень тем](https://www.nsu.ru/n/information-technologies-department/education_fit/gia/perechen-tem/09.03.01_perechen_tem_PIiKN.pdf)
+* [Перечь кафедр](https://www.nsu.ru/n/information-technologies-department/departments/)
+* [Вся нужные сведения и файлы по практике](https://www.nsu.ru/n/information-technologies-department/education_fit/praktika/praktika.php)
+
 ## Базы данных
 
 ***На медии в разделе БД 6 семестра есть [экзаменационный минимум](https://drive.google.com/file/d/1qFv3M-YCslMQpRg050tvkKKf588l5hRr/view)***
