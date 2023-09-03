@@ -15,7 +15,7 @@
 * [«Инструкция» по практике](https://diplom.nsu.ru/pluginfile.php/11073/mod_resource/content/1/сентябрь%202023_Информационное%20письмо%20о%20практике%20для%20бакалавров%203%20курса%20каф%20СИ%20ПИиКН.docx.pdf)
 * [Перечень тем](https://www.nsu.ru/n/information-technologies-department/education_fit/gia/perechen-tem/09.03.01_perechen_tem_PIiKN.pdf)
 * [Перечень кафедр](https://www.nsu.ru/n/information-technologies-department/departments/)
-* [Вся нужные сведения и файлы по практике](https://www.nsu.ru/n/information-technologies-department/education_fit/praktika/praktika.php)
+* [Файлы для практики](https://www.nsu.ru/n/information-technologies-department/education_fit/praktika/praktika.php)
 
 ## Базы данных
 
