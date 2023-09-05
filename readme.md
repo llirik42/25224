@@ -36,6 +36,7 @@
 
 ## ОСИ
 
+* [Задачи](https://drive.google.com/file/d/1wSkJsucqG8YpZTzFoi4iv-F287dB_ASS/view?usp=sharing)
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 
 ## Электротехника и электроника
