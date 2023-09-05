@@ -51,4 +51,4 @@
 
 ## ООАиД
 
-* [Файлы курса](https://ai.nsu.ru/projects/ooad/files)
+* [Страница курса](https://ai.nsu.ru/projects/ooad/documents)
