@@ -29,6 +29,8 @@
 * [Тест 4](https://docs.google.com/forms/d/e/1FAIpQLSfvjvK4Eeg-Cxr-HtwlL0t3g58F2wXI7zBabbPTFi_bkudU2g/viewform)
 * [Тест 5](https://docs.google.com/forms/d/e/1FAIpQLSf0JYrE9lZy7EQw51SIfq96A59VI_ruyvLPFE0Sc0n8dX_T-Q/viewform)
 * [Тест 6](https://docs.google.com/forms/d/e/1FAIpQLSeiuzk8FTSroiivdO3dwtNPw4KQ9_1C9aRqJ4DVL3-RqhixOg/viewform)
+* [Classroom лекций](https://classroom.google.com/c/NjIxNDE3NjIzNTY0)
+* [Classroom семинаров](https://classroom.google.com/c/NjIxNDQ2NTMyMjAz)
 
 ### Ответы на тесты
 
@@ -43,6 +45,8 @@
 ## Электротехника и электроника
 
 * [Симулятор электрических схем](https://www.falstad.com/circuit/)
+* [Classroom лекций](https://classroom.google.com/c/MTQyNjA2NDg2NDAx)
+* [Classroom семинаров](https://classroom.google.com/c/Mzg3ODU3MjEyMjEz)
 
 ## Сети
 
