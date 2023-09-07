@@ -41,6 +41,7 @@
 
 * [Задачи](https://drive.google.com/file/d/1wSkJsucqG8YpZTzFoi4iv-F287dB_ASS/view?usp=sharing)
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
+* [Вопросы Влада (неофициальные)](https://docs.google.com/document/d/1-f2q0Jde278mcFbWySMEDvhR72EwedrE4vqSGBZ6fv8/edit)
 
 ## Электротехника и электроника
 
