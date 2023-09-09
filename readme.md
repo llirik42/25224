@@ -53,7 +53,9 @@
 
 * [Сайт Ипполитова с лабами и вопросами к экзамену](http://fit.ippolitov.me/CN_2/2022/)
 * [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
+* [Журнал Андреева](https://docs.google.com/spreadsheets/d/1gHm8dM-XyV6zYp5wAlOn06B5l1Tro9Kh/edit#gid=2078979037)
 
 ## ООАиД
 
 * [Страница курса](https://ai.nsu.ru/projects/ooad/documents)
+* [Журнал Андреева](https://docs.google.com/spreadsheets/d/1gHm8dM-XyV6zYp5wAlOn06B5l1Tro9Kh/edit#gid=2078979037)
