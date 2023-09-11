@@ -37,7 +37,7 @@
 * [Караваева](http://ccfit.nsu.ru/~karavaev/)
 * [Муратова(2022-2023)](https://drive.google.com/file/d/1nwUE61dClTloFAOejwWzb0Bb4IcYtNBV/view)
 
-## ОСИ
+## ОСи
 
 * [Задачи](https://drive.google.com/file/d/1wSkJsucqG8YpZTzFoi4iv-F287dB_ASS/view?usp=sharing)
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
