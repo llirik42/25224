@@ -61,3 +61,7 @@
 
 * [Страница курса](https://ai.nsu.ru/projects/ooad/documents)
 * [Журнал Андреева](https://docs.google.com/spreadsheets/d/1gHm8dM-XyV6zYp5wAlOn06B5l1Tro9Kh/edit#gid=2078979037)
+
+## Вычислительная математика
+
+* [Книжка для семинаров](https://drive.google.com/file/d/1cPtCSmVfINeUe7HCOUiHi7gnNVfuBszz/view)
