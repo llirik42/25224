@@ -60,6 +60,7 @@
 ## ООАиД
 
 * [Страница курса](https://ai.nsu.ru/projects/ooad/documents)
+* [GoogleMeet](https://meet.google.com/mgo-wpfg-hwn)
 * [Журнал Андреева](https://docs.google.com/spreadsheets/d/1gHm8dM-XyV6zYp5wAlOn06B5l1Tro9Kh/edit#gid=2078979037)
 
 ## Вычислительная математика
