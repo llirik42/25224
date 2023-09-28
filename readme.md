@@ -13,7 +13,7 @@
 
 ## МТК
 
-* [Список лаб](https://drive.google.com/file/d/1e6Be8adOJwnbkg0gAV6QRDBQdhXMbxMp/view)
+* [Список лаб](https://drive.google.com/file/d/1K6KdwL8XxT_2yRNZ5DbPO6g5yeFCWKka/view)
 
 ## Базы данных
 
