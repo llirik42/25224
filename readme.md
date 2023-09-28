@@ -11,12 +11,9 @@
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 * [NsuMedia](https://www.nsumedia.ru/main_potok)
 
-## Практика
+## МТК
 
-* [«Инструкция» по практике](https://diplom.nsu.ru/pluginfile.php/11073/mod_resource/content/1/сентябрь%202023_Информационное%20письмо%20о%20практике%20для%20бакалавров%203%20курса%20каф%20СИ%20ПИиКН.docx.pdf)
-* [Перечень тем](https://www.nsu.ru/n/information-technologies-department/education_fit/gia/perechen-tem/09.03.01_perechen_tem_PIiKN.pdf)
-* [Перечень кафедр](https://www.nsu.ru/n/information-technologies-department/departments/)
-* [Файлы для практики](https://www.nsu.ru/n/information-technologies-department/education_fit/praktika/praktika.php)
+* [Список лаб](https://drive.google.com/file/d/1e6Be8adOJwnbkg0gAV6QRDBQdhXMbxMp/view)
 
 ## Базы данных
 
