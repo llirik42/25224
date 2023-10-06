@@ -64,6 +64,6 @@
 
 ## Вычислительная математика
 
-* [Книжка для семинаров](https://drive.google.com/file/d/1cPtCSmVfINeUe7HCOUiHi7gnNVfuBszz/view)
+* [Книжка для семинаров](https://drive.google.com/file/d/1iFhKkFlFAq1Ofv-P_yQN3V8NHbat2DfG/view)
 * [Мацокин-Гололобов, ч1](https://drive.google.com/file/d/1_2Fhwt8cLT5hTSf_aTBzxt_VZGtSPgaf/view)
 * [Мацокин-Гололобов, ч2](https://drive.google.com/file/d/1AUPW2T85aSLtZjQfot4ybWEM9YVKMhbU/view)
