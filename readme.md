@@ -40,7 +40,12 @@
 ## ОСи
 
 * [Задачи](https://drive.google.com/file/d/1wSkJsucqG8YpZTzFoi4iv-F287dB_ASS/view?usp=sharing)
+* [Проект на 3](https://docs.google.com/document/d/1QbnYHiLDkwmmn2vf0wtothLkzFOwxwMIGj6uh1v6p84/edit)
+* [Проект на 4]()
+* [Проект на 5](https://docs.google.com/document/d/11gc6fa6c7KJAVN2k1rKRTx9jR_xPBRTQVQF3mL8C3qk/edit)
+* [Требования к проектам](https://docs.google.com/document/d/1XwKUrEVHLIj6XQNgAXXsFzcj-2Qlcz6UtrBgcUglzDI/edit#heading=h.sdbf8hquiqwh)
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
+* [Ссылка-приглашение для дистанта](https://discord.com/invite/Kmdb2Sqx)
 * [Вопросы Влада (неофициальные)](https://docs.google.com/document/d/1-f2q0Jde278mcFbWySMEDvhR72EwedrE4vqSGBZ6fv8/edit)
 
 ## Электротехника и электроника
@@ -64,6 +69,6 @@
 
 ## Вычислительная математика
 
-* [Книжка для семинаров](https://drive.google.com/file/d/1iFhKkFlFAq1Ofv-P_yQN3V8NHbat2DfG/view)
+* [Книжка для семинаров](https://drive.google.com/file/d/1SJagLm9pFCXLP1zFzqdi3Sn_aNtShuTs/view)
 * [Мацокин-Гололобов, ч1](https://drive.google.com/file/d/1_2Fhwt8cLT5hTSf_aTBzxt_VZGtSPgaf/view)
 * [Мацокин-Гололобов, ч2](https://drive.google.com/file/d/1AUPW2T85aSLtZjQfot4ybWEM9YVKMhbU/view)
