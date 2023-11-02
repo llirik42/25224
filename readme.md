@@ -42,7 +42,7 @@
 * [Задачи](https://drive.google.com/file/d/1wSkJsucqG8YpZTzFoi4iv-F287dB_ASS/view?usp=sharing)
 * [Проект на 3](https://docs.google.com/document/d/1QbnYHiLDkwmmn2vf0wtothLkzFOwxwMIGj6uh1v6p84/edit)
 * [Проект на 4]()
-* [Проект на 5 (33 -- с пулом потоков)](https://docs.google.com/document/d/11gc6fa6c7KJAVN2k1rKRTx9jR_xPBRTQVQF3mL8C3qk/edit)
+* [Проект на 5 (33 — с пулом потоков)](https://docs.google.com/document/d/11gc6fa6c7KJAVN2k1rKRTx9jR_xPBRTQVQF3mL8C3qk/edit)
 * [Требования к проектам](https://docs.google.com/document/d/1XwKUrEVHLIj6XQNgAXXsFzcj-2Qlcz6UtrBgcUglzDI/edit#heading=h.sdbf8hquiqwh)
 * [Группа Рутмана в вк](https://vk.com/nsu_fit_os)
 * [Ссылка-приглашение для дистанта](https://discord.com/invite/Kmdb2Sqx)
