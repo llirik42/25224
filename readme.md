@@ -22,6 +22,7 @@
 
 * [Classroom лекций](https://classroom.google.com/c/NjIxNDE3NjIzNTY0)
 * [Classroom семинаров](https://classroom.google.com/c/NjIxNDQ2NTMyMjAz)
+* [Сервер](http://84.237.50.81:8080/apex)
 
 ### Google-формы для подготовки к тестам
 
