@@ -40,7 +40,7 @@
 
 ## ОСи
 
-* [Задачи](https://drive.google.com/file/d/1wSkJsucqG8YpZTzFoi4iv-F287dB_ASS/view?usp=sharing)
+* [Задачи](https://drive.google.com/file/d/1ueG8X06em7nlYzVC0UerDLpiIq66UIFd/view?usp=sharing)
 * [Проект на 3](https://docs.google.com/document/d/1QbnYHiLDkwmmn2vf0wtothLkzFOwxwMIGj6uh1v6p84/edit)
 * [Проект на 4]()
 * [Проект на 5 (33 — с пулом потоков)](https://docs.google.com/document/d/11gc6fa6c7KJAVN2k1rKRTx9jR_xPBRTQVQF3mL8C3qk/edit)
