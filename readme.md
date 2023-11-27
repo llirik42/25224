@@ -54,6 +54,7 @@
 * [Симулятор электрических схем](https://www.falstad.com/circuit/)
 * [Classroom лекций](https://classroom.google.com/c/MTQyNjA2NDg2NDAx)
 * [Classroom семинаров](https://classroom.google.com/c/Mzg3ODU3MjEyMjEz)
+* [GoogleMeet для лекций](https://meet.google.com/iua-tryp-azy)
 
 ## Сети
 
