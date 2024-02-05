@@ -11,9 +11,13 @@
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 * [NsuMedia](https://www.nsumedia.ru/main_potok)
 
-## ТПНС
+## Основы теории управления
 
-* [GoogleMeet лекций](https://meet.google.com/bqn-vtqa-qyp)
+* [Classroom](https://classroom.google.com/c/NjUxNDA4ODQzMzYx)
+
+## Введение в теорию кодирования
+
+* [Домашние задания](https://nsuhw.ru/)
 
 ## Базы данных
 
@@ -36,3 +40,11 @@
 
 * [Караваева](http://ccfit.nsu.ru/~karavaev/)
 * [Муратова (2022-2023)](https://drive.google.com/file/d/1nwUE61dClTloFAOejwWzb0Bb4IcYtNBV/view)
+
+## ТПНС
+
+* [GoogleMeet лекций](https://meet.google.com/bqn-vtqa-qyp)
+
+## Инженерная и компьютерная графика
+
+* [Classroom](https://classroom.google.com/c/NjYxNjc2NzQ5NjEw)
