@@ -48,3 +48,7 @@
 ## Инженерная и компьютерная графика
 
 * [Classroom](https://classroom.google.com/c/NjYxNjc2NzQ5NjEw)
+
+## УППРПО
+
+* [Сайт лектора](http://ccfit.nsu.ru/~den/)
