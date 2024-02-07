@@ -8,6 +8,7 @@
 * [Записи лекций с предыдущих лет](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit#heading=h.war8jjn7o012)
 * [Отзывы о научных руководителях](https://docs.google.com/spreadsheets/d/16Ny1vAlGZbAl6gcKIBJx-fIUNgMgcQOONAmslsH7pqc/edit)
 * [Отзывы о преподавателях](https://docs.google.com/document/u/0/d/16hbDYg7dMCo3DLn8NgGGI-eOoDxosUn0yKN1fwrPcsA/edit)
+* [Отзывы о преподавателях 2.0](https://docs.google.com/document/d/11VQiY0Cr86lxh0qlV4kj7X857_xOVnfCdQMilYKfob0/edit#heading=h.z9gt69h3lhwi)
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
