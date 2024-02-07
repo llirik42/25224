@@ -1,15 +1,15 @@
 ## Общая информация
 
-* [Очереди на сдачу](https://docs.google.com/document/d/1gexnCeMQZJAviWcZjjtGuiEM3a5stuFkmGsj32bg7Zg/edit)
-* [Правила очереди](https://docs.google.com/document/d/1zienH2EdLOoZcEYlik8g64C_onRnxcU_vPiiDED-erU/edit)
 * [Расписание](https://table.nsu.ru/group/21203)
 * [Экзамены](https://table.nsu.ru/exam/21203)
+* [Объявления](https://www.nsu.ru/n/information-technologies-department/media/advert/)
+* [Списки групп](https://www.nsu.ru/n/information-technologies-department/students/groups.php)
+* [NsuMedia](https://www.nsumedia.ru/main_potok)
 * [Записи лекций с предыдущих лет](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit#heading=h.war8jjn7o012)
 * [Отзывы о научных руководителях](https://docs.google.com/spreadsheets/d/16Ny1vAlGZbAl6gcKIBJx-fIUNgMgcQOONAmslsH7pqc/edit)
 * [Отзывы о преподавателях](https://docs.google.com/document/u/0/d/16hbDYg7dMCo3DLn8NgGGI-eOoDxosUn0yKN1fwrPcsA/edit)
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
-* [NsuMedia](https://www.nsumedia.ru/main_potok)
 
 ## Основы теории управления
 
@@ -18,6 +18,7 @@
 ## Введение в теорию кодирования
 
 * [Домашние задания](https://nsuhw.ru/)
+* [Журнал](https://docs.google.com/spreadsheets/d/1RETpvdhHOIZPjXPcohixeJWiZQtLgi4YGXi5Y_uHVFg/edit#gid=485650513)
 
 ## Базы данных
 
@@ -43,11 +44,17 @@
 
 ## ТПНС
 
-* [GoogleMeet лекций](https://meet.google.com/bqn-vtqa-qyp)
+* [Журнал](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
+* [GoogleMeet](https://meet.google.com/bqn-vtqa-qyp)
+* [Лабы](https://drive.google.com/file/d/1pHNBMA1KvbZ_IPUnTwMJbeqCy_zkvuHH/view?usp=sharing)
 
 ## Инженерная и компьютерная графика
 
 * [Classroom](https://classroom.google.com/c/NjYxNjc2NzQ5NjEw)
+
+## ЛМИЗ
+
+* [Гугл-диск](https://drive.google.com/drive/folders/1cAcKQvimBnSPE1MGyLOKmM5S4NuSeVzW)
 
 ## УППРПО
 
