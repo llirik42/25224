@@ -48,7 +48,7 @@
 * [Журнал](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
 * [GoogleMeet](https://meet.google.com/bqn-vtqa-qyp)
 * [Лабы](https://drive.google.com/file/d/1pHNBMA1KvbZ_IPUnTwMJbeqCy_zkvuHH/view?usp=sharing)
-* [Запис лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
+* [Записи лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
 
 ## Инженерная и компьютерная графика
 
