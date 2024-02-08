@@ -2,6 +2,7 @@
 
 * [Расписание](https://table.nsu.ru/group/21203)
 * [Экзамены](https://table.nsu.ru/exam/21203)
+* [График пересдач](https://docs.google.com/document/d/1MfFo5S89Z4Hur0bYZmRPyZxd4UOvXhbPBjl-bzhi5FM/edit)
 * [Объявления](https://www.nsu.ru/n/information-technologies-department/media/advert/)
 * [Списки групп](https://www.nsu.ru/n/information-technologies-department/students/groups.php)
 * [NsuMedia](https://www.nsumedia.ru/main_potok)
