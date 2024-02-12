@@ -52,6 +52,10 @@
 * [Лабы](https://drive.google.com/file/d/1pHNBMA1KvbZ_IPUnTwMJbeqCy_zkvuHH/view?usp=sharing)
 * [Записи лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
 
+## ТООИ
+
+ * [GoogleMeet](https://meet.google.com/pso-triq-nxu)
+
 ## Инженерная и компьютерная графика
 
 * [Classroom](https://classroom.google.com/c/NjYxNjc2NzQ5NjEw)
