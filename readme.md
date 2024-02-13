@@ -63,6 +63,7 @@
 
 ## Инженерная и компьютерная графика
 
+* [Сайт курса](https://el.nsu.ru/course/view.php?id=1986)
 * [Classroom](https://classroom.google.com/c/NjYxNjc2NzQ5NjEw)
 
 ## ЛМИЗ
