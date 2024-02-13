@@ -16,6 +16,8 @@
 ## Основы теории управления
 
 * [Classroom](https://classroom.google.com/c/NjUxNDA4ODQzMzYx)
+* [Материалы предыдущего года](http://lomov.gorodok.net/fitcontrol/)
+* [Литература](https://disk.yandex.ru/d/mTmC30h01DpplQ)
 
 ## Введение в теорию кодирования
 
@@ -50,11 +52,14 @@
 * [Журнал](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
 * [GoogleMeet](https://meet.google.com/bqn-vtqa-qyp)
 * [Лабы](https://drive.google.com/file/d/1pHNBMA1KvbZ_IPUnTwMJbeqCy_zkvuHH/view?usp=sharing)
-* [Записи лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
+* [Лекции](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
+* [Семинары Щёлокова](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5TRJZriYyr_5SW6Skh8lPe)
+* [Семинары Узилова](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7AeDUpPhApiNKQKbtw_MqE)
 
 ## ТООИ
 
- * [GoogleMeet](https://meet.google.com/pso-triq-nxu)
+* [GoogleMeet](https://meet.google.com/pso-triq-nxu)
+* [Лекции](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5AFG2CYNbjQSC160ROpZYr)
 
 ## Инженерная и компьютерная графика
 
@@ -67,3 +72,15 @@
 ## УППРПО
 
 * [Сайт лектора](http://ccfit.nsu.ru/~den/)
+
+### Лабораторные работы
+
+1. https://telegra.ph/Laboratornaya-rabota-po-JUnit-03-03
+2. https://telegra.ph/Laboratornaya-rabota-po-Elasticsearch-03-03
+3. https://telegra.ph/Laboratornaya-rabota-po-Graphana-03-03
+4. https://telegra.ph/Laboratornaya-rabota-Kafka-03-03
+5. https://telegra.ph/Laboratornaya-po-Postman-03-03
+6. https://telegra.ph/Laboratornaya-po-SpringBoot-03-03
+7. https://telegra.ph/Laboratornaya-rabota-po-Jenkins-03-03
+8. https://telegra.ph/Laba-po-Maven-03-03
+9. https://telegra.ph/Laboratornaya-rabota-po-Docker-03-03
