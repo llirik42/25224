@@ -49,7 +49,8 @@
 
 ## ТПНС
 
-* [Журнал](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
+* [Журнал лектора](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
+* [Журнал Щёлокова](https://docs.google.com/spreadsheets/d/1Cw6PAqwLexx-LQw64lkA44-COR1jHJNLTVyG468D3Nk/edit#gid=0)
 * [GoogleMeet](https://meet.google.com/bqn-vtqa-qyp)
 * [Лабы](https://drive.google.com/file/d/1pHNBMA1KvbZ_IPUnTwMJbeqCy_zkvuHH/view?usp=sharing)
 * [Лекции](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
