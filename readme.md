@@ -61,7 +61,7 @@
 ## ТООИ
 
 * [GoogleMeet](https://meet.google.com/pso-triq-nxu)
-* [Лекции](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5AFG2CYNbjQSC160ROpZYr)
+* [Лекции и семинары](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5AFG2CYNbjQSC160ROpZYr)
 
 ## Инженерная и компьютерная графика
 
