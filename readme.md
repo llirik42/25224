@@ -13,6 +13,10 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
+## Измерительный практикум
+
+* [Описание лабораторных работ](http://phys.nsu.ru/measuring/Labworks.html)
+
 ## Основы теории управления
 
 * [Classroom](https://classroom.google.com/c/NjUxNDA4ODQzMzYx)
