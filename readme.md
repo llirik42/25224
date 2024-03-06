@@ -27,6 +27,7 @@
 
 ## Введение в теорию кодирования
 
+* [Лекция по декодирования и конечным полям](https://www.youtube.com/watch?v=kMBbVMW5DkI)
 * [Домашние задания](https://nsuhw.ru/)
 * [Журнал](https://docs.google.com/spreadsheets/d/1RETpvdhHOIZPjXPcohixeJWiZQtLgi4YGXi5Y_uHVFg/edit#gid=485650513)
 * [GoogleMeet](https://meet.google.com/iua-tryp-azy)
