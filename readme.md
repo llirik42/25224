@@ -69,6 +69,7 @@
 
 * [GoogleMeet](https://meet.google.com/pso-triq-nxu)
 * [Лекции и семинары](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5AFG2CYNbjQSC160ROpZYr)
+* [Гугл-диск](https://drive.google.com/drive/folders/1rylPFSAM7ygzB6mNosikailuUuneR3Kq)
 
 ## Инженерная и компьютерная графика
 
