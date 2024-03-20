@@ -22,7 +22,7 @@
 ## Основы теории управления
 
 * [Classroom](https://classroom.google.com/c/NjUxNDA4ODQzMzYx)
-* [Материалы предыдущего года](http://lomov.gorodok.net/fitcontrol/)
+* [Материалы](http://lomov.gorodok.net/fitcontrol/)
 * [Литература](https://disk.yandex.ru/d/mTmC30h01DpplQ)
 
 ## Введение в теорию кодирования
