@@ -64,6 +64,7 @@
 * [Семинары Щёлокова](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5TRJZriYyr_5SW6Skh8lPe)
 * [Семинары Узилова](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7AeDUpPhApiNKQKbtw_MqE)
 * [Пояснение к первой лабе](https://docs.google.com/presentation/d/1fqLvuVKDuhZUEEKGTOAl5ANOBzsNcJxm/edit?usp=sharing&ouid=111541392942588792570&rtpof=true&sd=true)
+* [Поснение ко второй лабе](https://docs.google.com/presentation/d/14iwCgB_7DIvCNNLTDj8LjaaVa7waU9k0/edit?usp=sharing&ouid=111541392942588792570&rtpof=true&sd=true)
 
 ## ТООИ
 
