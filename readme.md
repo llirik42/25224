@@ -68,9 +68,9 @@
 
 ## ТООИ
 
-* [GoogleMeet](https://meet.google.com/pso-triq-nxu)
+* [GoogleMeet](https://meet.google.com/ejm-jwkn-cnp)
 * [Лекции и семинары](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5AFG2CYNbjQSC160ROpZYr)
-* [Гугл-диск](https://drive.google.com/drive/folders/1rylPFSAM7ygzB6mNosikailuUuneR3Kq)
+* [classroom](https://classroom.google.com/c/NjcyOTU1ODM2OTQ0)
 
 ## Инженерная и компьютерная графика
 
