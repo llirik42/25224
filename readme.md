@@ -68,7 +68,7 @@
 
 ## ТООИ
 
-* [GoogleMeet](https://meet.google.com/ejm-jwkn-cnp)
+* [GoogleMeet](https://meet.google.com/ejm-jwkn-cnp?authuser=0&hs=179)
 * [Лекции и семинары](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5AFG2CYNbjQSC160ROpZYr)
 * [classroom](https://classroom.google.com/c/NjcyOTU1ODM2OTQ0)
 
