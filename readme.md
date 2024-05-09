@@ -57,15 +57,17 @@
 
 ## ТПНС
 
-* [Журнал лектора](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
-* [Журнал Щёлокова](https://docs.google.com/spreadsheets/d/1Cw6PAqwLexx-LQw64lkA44-COR1jHJNLTVyG468D3Nk/edit#gid=0)
+* [Журнал](https://docs.google.com/spreadsheets/d/1uceLxG202KaNI3a6tHNzGlKCDYa7wL5BWcKL4xkAObE/edit#gid=0)
 * [GoogleMeet](https://meet.google.com/bqn-vtqa-qyp)
-* [Лабы](https://drive.google.com/file/d/1pHNBMA1KvbZ_IPUnTwMJbeqCy_zkvuHH/view?usp=sharing)
+* [Лабы](https://docs.google.com/document/d/1xm1NyPBrktp5xO2mHAUlYbrgG6ZLxGhd/edit)
 * [Лекции](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5w-g-q1jihgHXvUIO7wu7O)
 * [Семинары Щёлокова](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G5TRJZriYyr_5SW6Skh8lPe)
 * [Семинары Узилова](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7AeDUpPhApiNKQKbtw_MqE)
 * [Пояснение к первой лабе](https://docs.google.com/presentation/d/1fqLvuVKDuhZUEEKGTOAl5ANOBzsNcJxm/edit?usp=sharing&ouid=111541392942588792570&rtpof=true&sd=true)
 * [Поснение ко второй лабе](https://docs.google.com/presentation/d/14iwCgB_7DIvCNNLTDj8LjaaVa7waU9k0/edit?usp=sharing&ouid=111541392942588792570&rtpof=true&sd=true)
+* [Поснение к третьей лабе](https://docs.google.com/presentation/d/1e7hgAVD5XNenQ3TA_t5TkmSukseWgX1O/edit?usp=sharing&ouid=111541392942588792570&rtpof=true&sd=true)
+* [Поснение к четвёртой лабе](https://docs.google.com/presentation/d/1OCxCesEJ7t_JTtjwEbOcTTwP8fLXsuND/edit?usp=sharing&ouid=111541392942588792570&rtpof=true&sd=true)
+
 
 ## ТООИ
 
