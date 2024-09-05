@@ -14,5 +14,8 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
+## ИСИС
+* [GoogleMeet](https://meet.google.com/bcn-hdap-zdu)
+
 ## C#
 * [страница курса](https://sites.google.com/view/fitnsudotnet)
