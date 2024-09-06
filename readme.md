@@ -26,6 +26,7 @@
 ## КРПО
 * [GoogleMeet](https://meet.google.com/hog-ybdm-sxi)
 * [Сайт курса](https://ai.nsu.ru/projects/fit-pm/documents)
+* [ТГ Мухортова](https://t.me/v_v_m)
 
 ## C#
 * [Страница курса](https://sites.google.com/view/fitnsudotnet)
