@@ -21,5 +21,15 @@
 * [GoogleMeet](https://meet.google.com/bcn-hdap-zdu)
 * [Табличка](https://docs.google.com/spreadsheets/d/1oXK_SJTTD8bPume5LuEjOjRonPyJB2C4JMDz_MP9Qd4/edit?usp=sharing)
 
+## Защита информации
+* [Clasroom](https://classroom.google.com/c/NzEwNzcxNDgxNzk1)
+* [GoogleMeet 1](https://meet.google.com/utk-ighp-gqm)
+* [GoogleMeet 2](https://meet.google.com/cme-dgwi-gnm)
+
+## КРПО
+* [GoogleMeet](https://meet.google.com/hog-ybdm-sxi)
+* [Сайт курса](https://ai.nsu.ru/projects/fit-pm/documents)
+* [ТГ Мухортова](https://t.me/v_v_m)
+
 ## C#
-* [страница курса](https://sites.google.com/view/fitnsudotnet)
+* [Страница курса](https://sites.google.com/view/fitnsudotnet)
