@@ -14,6 +14,9 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
+## ИЭиТП
+* [Страница курса](https://el.nsu.ru/course/view.php?id=2058)
+
 ## ИСИС
 * [GoogleMeet](https://meet.google.com/bcn-hdap-zdu)
 * [Табличка](https://docs.google.com/spreadsheets/d/1oXK_SJTTD8bPume5LuEjOjRonPyJB2C4JMDz_MP9Qd4/edit?usp=sharing)
