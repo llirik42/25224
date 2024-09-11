@@ -22,7 +22,8 @@
 * [Табличка](https://docs.google.com/spreadsheets/d/1oXK_SJTTD8bPume5LuEjOjRonPyJB2C4JMDz_MP9Qd4/edit?usp=sharing)
 
 ## Защита информации
-* [Clasroom](https://classroom.google.com/c/NzEwNzcxNDgxNzk1)
+* [Classroom семинаров](https://classroom.google.com/c/NzExOTY5NDUzNjUy)
+* [Clasroom лекций](https://classroom.google.com/c/NzEwNzcxNDgxNzk1)
 * [GoogleMeet 1](https://meet.google.com/utk-ighp-gqm)
 * [GoogleMeet 2](https://meet.google.com/cme-dgwi-gnm)
 
