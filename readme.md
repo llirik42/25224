@@ -28,6 +28,7 @@
 * [GoogleMeet 2](https://meet.google.com/cme-dgwi-gnm)
 
 ## КРПО
+* [Проект](https://ai.nsu.ru/projects/fanfare)
 * [GoogleMeet](https://meet.google.com/hog-ybdm-sxi)
 * [Сайт курса](https://ai.nsu.ru/projects/fit-pm/documents)
 * [ТГ Мухортова](https://t.me/v_v_m)
