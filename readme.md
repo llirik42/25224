@@ -17,6 +17,7 @@
 ## СПД
 * [Страница курса](https://el.nsu.ru/course/view.php?id=2098)
 * [GoogleMeet лекций](http://meet.google.com/xft-xvdc-vmk)
+* [Документ с командами](https://docs.google.com/document/d/12m5etSo31Ewdvar-TMgNxkhB1S9mDiITsIQLoOLv9SU/edit)
 
 ## ИЭиТП
 * [Страница курса](https://el.nsu.ru/course/view.php?id=2058)
