@@ -1,7 +1,7 @@
 ## Общая информация
 
-* [Расписание](https://table.nsu.ru/group/21202)
-* [Экзамены](https://table.nsu.ru/exam/21202)
+* [Расписание](https://table.nsu.ru/group/25224)
+* [Экзамены](https://table.nsu.ru/exam/25224)
 * [График пересдач](https://docs.google.com/document/d/1MfFo5S89Z4Hur0bYZmRPyZxd4UOvXhbPBjl-bzhi5FM/edit)
 * [Объявления](https://www.nsu.ru/n/information-technologies-department/media/advert/)
 * [Списки групп](https://www.nsu.ru/n/information-technologies-department/students/groups.php)
@@ -13,31 +13,3 @@
 * [Отзывы о преподавателях 2.0](https://docs.google.com/document/d/11VQiY0Cr86lxh0qlV4kj7X857_xOVnfCdQMilYKfob0/edit#heading=h.z9gt69h3lhwi)
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
-
-## СПД
-* [Страница курса](https://el.nsu.ru/course/view.php?id=2098)
-* [GoogleMeet лекций](http://meet.google.com/xft-xvdc-vmk)
-* [GoogleMeet семинаров]( https://meet.google.com/jjz-rcmm-ire)
-* [Документ с командами](https://docs.google.com/document/d/12m5etSo31Ewdvar-TMgNxkhB1S9mDiITsIQLoOLv9SU/edit)
-
-## ИЭиТП
-* [Страница курса](https://el.nsu.ru/course/view.php?id=2058)
-
-## ИСИС
-* [GoogleMeet](https://meet.google.com/bcn-hdap-zdu)
-* [Табличка](https://docs.google.com/spreadsheets/d/1oXK_SJTTD8bPume5LuEjOjRonPyJB2C4JMDz_MP9Qd4/edit?usp=sharing)
-
-## Защита информации
-* [Classroom семинаров](https://classroom.google.com/c/NzExOTY5NDUzNjUy)
-* [Clasroom лекций](https://classroom.google.com/c/NzEwNzcxNDgxNzk1)
-* [GoogleMeet 1](https://meet.google.com/utk-ighp-gqm)
-* [GoogleMeet 2](https://meet.google.com/cme-dgwi-gnm)
-
-## КРПО
-* [Проект](https://ai.nsu.ru/projects/fanfare)
-* [GoogleMeet](https://meet.google.com/hog-ybdm-sxi)
-* [Сайт курса](https://ai.nsu.ru/projects/fit-pm/documents)
-* [ТГ Мухортова](https://t.me/v_v_m)
-
-## C#
-* [Страница курса](https://sites.google.com/view/fitnsudotnet)
