@@ -17,3 +17,6 @@
 ## Современные методы программирования
 * [GoogleMeet](https://meet.google.com/met-pnxf-vff)
 * [Курс](https://classroom.google.com/u/0/c/MTU4ODY2Njk3NDM3)
+
+## Анализ алгоритмов
+* [GoogleMeet](https://meet.google.com/xbs-gtrq-uxp)
