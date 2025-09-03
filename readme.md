@@ -19,4 +19,6 @@
 * [Курс](https://classroom.google.com/u/0/c/MTU4ODY2Njk3NDM3)
 
 ## Анализ алгоритмов
-* [GoogleMeet](https://meet.google.com/xbs-gtrq-uxp)
+* [Курс на el.nsu.ru](https://el.nsu.ru/course/view.php?id=2268)
+* [Темы докладов](https://docs.google.com/spreadsheets/d/13j6QeZYmMAUWZb8UDUWhAcqp8puyVZjBodF0AICCM2Y/edit?gid=0#gid=0)
+* [Вводная лекция](https://youtu.be/lDVvbCenqUo)
