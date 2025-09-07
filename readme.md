@@ -15,7 +15,7 @@
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
 ## Современные методы программирования
-* [GoogleMeet](https://meet.google.com/met-pnxf-vff)
+* [MicrosoftTeams](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_OWNjZjExM2EtYjdjOS00ZmZiLThiMjEtNzBhOTU1NzUyZGRi%40thread.v2/0?context=%7B%22Tid%22%3A%22e8e63056-fd5c-483d-a4b3-1e8d27502686%22%2C%22Oid%22%3A%22462b1ea9-d814-4b11-b688-c8f092aeb868%22%7D)
 * [Курс](https://classroom.google.com/u/0/c/MTU4ODY2Njk3NDM3)
 
 ## Анализ алгоритмов
