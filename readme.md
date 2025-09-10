@@ -25,3 +25,6 @@
 
 ## Английский язык
 * [Курс](https://classroom.google.com/c/NzQyOTQyMDYyODgz)
+
+## Методология анализа данных
+* [GoogleMeet](https://meet.google.com/ume-cqea-gsm)
