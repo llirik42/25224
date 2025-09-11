@@ -28,3 +28,4 @@
 
 ## Методология анализа данных
 * [GoogleMeet](https://meet.google.com/ume-cqea-gsm)
+* [Гугл диск](https://drive.google.com/drive/folders/1klDF52ilOs_HPEwAdH3sIekWSmj6LOwx)
