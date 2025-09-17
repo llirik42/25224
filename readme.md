@@ -20,6 +20,7 @@
 * [Записи лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G68B9FUZrzMp0E5VOkcLZQL)
 
 ## Анализ алгоритмов
+* [Яндекс Телемост](https://telemost.yandex.ru/j/77771363769488)
 * [Курс на el.nsu.ru](https://el.nsu.ru/course/view.php?id=2268)
 * [Темы докладов](https://docs.google.com/spreadsheets/d/13j6QeZYmMAUWZb8UDUWhAcqp8puyVZjBodF0AICCM2Y/edit?gid=0#gid=0)
 * [Запись вводной лекции](https://youtu.be/lDVvbCenqUo)
