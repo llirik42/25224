@@ -36,3 +36,6 @@
 ## Программирование на Python
 * [Репозиторий на github](https://github.com/viktor-shvajkovskij/python-basic-course-fall-2025)
 * [Таблица с оценками](https://disk.yandex.ru/i/I2a55zDmYlcKlA)
+
+## Семинар КОИ
+* [Zoom](https://us05web.zoom.us/j/85837659799?pwd=YbD1IT3JsbgGtnxunRDjSPyL2bG7aS.1)
