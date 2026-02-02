@@ -14,28 +14,5 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
-## Современные методы программирования
-* [MicrosoftTeams](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_OWNjZjExM2EtYjdjOS00ZmZiLThiMjEtNzBhOTU1NzUyZGRi%40thread.v2/0?context=%7B%22Tid%22%3A%22e8e63056-fd5c-483d-a4b3-1e8d27502686%22%2C%22Oid%22%3A%22462b1ea9-d814-4b11-b688-c8f092aeb868%22%7D)
-* [Курс](https://classroom.google.com/u/0/c/MTU4ODY2Njk3NDM3)
-* [Записи лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G68B9FUZrzMp0E5VOkcLZQL)
-
-## Анализ алгоритмов
-* [Яндекс Телемост](https://telemost.yandex.ru/j/77771363769488)
-* [Курс на el.nsu.ru](https://el.nsu.ru/course/view.php?id=2268)
-* [Темы докладов](https://docs.google.com/spreadsheets/d/13j6QeZYmMAUWZb8UDUWhAcqp8puyVZjBodF0AICCM2Y/edit?gid=0#gid=0)
-* [Запись вводной лекции](https://youtu.be/lDVvbCenqUo)
-
-## Английский язык
-* [Курс](https://classroom.google.com/c/NzQyOTQyMDYyODgz)
-
-## Методология анализа данных
-* [GoogleMeet](https://meet.google.com/ume-cqea-gsm)
-* [Гугл диск](https://drive.google.com/drive/folders/1klDF52ilOs_HPEwAdH3sIekWSmj6LOwx)
-* [Записи лекций](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7FLo7Wik-U2mAD6Z2HGp6l)
-
-## Программирование на Python
-* [Репозиторий на github](https://github.com/viktor-shvajkovskij/python-basic-course-fall-2025)
-* [Таблица с оценками](https://disk.yandex.ru/i/I2a55zDmYlcKlA)
-
-## Семинар КОИ
-* [Zoom](https://us05web.zoom.us/j/85837659799?pwd=YbD1IT3JsbgGtnxunRDjSPyL2bG7aS.1)
+## Проектирование человеко-маш взаимодействия
+* [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
