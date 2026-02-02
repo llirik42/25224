@@ -7,7 +7,7 @@
 * [Списки групп](https://www.nsu.ru/n/information-technologies-department/students/groups.php)
 * [NsuMedia](https://www.nsumedia.ru/main_potok)
 * [Записи лекций с предыдущих лет](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit#heading=h.war8jjn7o012)
-* [Распределение по дисциплинам по выбору](https://www.nsu.ru/n/information-technologies-department/students/raspred/)
+* [Распределение по дисциплинам по выбору](https://www.nsu.ru/n/information-technologies-department/students/raspred/raspred_aids.php)
 * [Отзывы о научных руководителях](https://docs.google.com/spreadsheets/d/16Ny1vAlGZbAl6gcKIBJx-fIUNgMgcQOONAmslsH7pqc/edit)
 * [Отзывы о преподавателях](https://docs.google.com/document/u/0/d/16hbDYg7dMCo3DLn8NgGGI-eOoDxosUn0yKN1fwrPcsA/edit)
 * [Отзывы о преподавателях 2.0](https://docs.google.com/document/d/11VQiY0Cr86lxh0qlV4kj7X857_xOVnfCdQMilYKfob0/edit#heading=h.z9gt69h3lhwi)
