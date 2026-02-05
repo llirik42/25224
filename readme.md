@@ -14,6 +14,12 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
+## Английский
+* [Classroom](https://classroom.google.com/c/NzQyOTQyMDYyODgz)
+
+## Анализ данных и машинное обучение
+* [Google disc](https://drive.google.com/drive/u/0/folders/0AAAF8FuW7srQUk9PVA)
+
 ## Проектирование человеко-маш взаимодействия
 * [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
 * [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7Nlr5jMXCjTcwWbdqkGICl)
@@ -21,6 +27,10 @@
 ## Управление проектами
 * [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
 * [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G58-SoLzCrUJQTS4ZEn8ZjL)
+
+## Потоковые алгоритмы
+* [Github](https://github.com/ktblsva/streaming_algo_course)
+* [Classroom](https://classroom.google.com/c/ODQzMTgyMzQ0MjIz)
 
 ## Семинар КОИ
 * [Яндекс Телемост](https://us05web.zoom.us/j/85837659799?pwd=YbD1IT3JsbgGtnxunRDjSPyL2bG7aS.1)
