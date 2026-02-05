@@ -18,7 +18,7 @@
 * [Classroom](https://classroom.google.com/c/NzQyOTQyMDYyODgz)
 
 ## Анализ данных и машинное обучение
-* [Google disc](https://drive.google.com/drive/u/0/folders/0AAAF8FuW7srQUk9PVA)
+* [Google disk](https://drive.google.com/drive/u/0/folders/0AAAF8FuW7srQUk9PVA)
 
 ## Проектирование человеко-маш взаимодействия
 * [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
