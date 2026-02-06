@@ -19,6 +19,8 @@
 
 ## Анализ данных и машинное обучение
 * [Google disk](https://drive.google.com/drive/u/0/folders/0AAAF8FuW7srQUk9PVA)
+* [Google Meet](https://meet.google.com/uis-bpmd-ufv)
+* [Яндекс Телемост](https://telemost.360.yandex.ru/j/6611682020)
 
 ## Проектирование человеко-маш взаимодействия
 * [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
