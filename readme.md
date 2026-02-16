@@ -25,10 +25,12 @@
 ## Проектирование человеко-маш взаимодействия
 * [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
 * [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7Nlr5jMXCjTcwWbdqkGICl)
+* [Курс](https://el.nsu.ru/course/view.php?id=2432)
 
 ## Управление проектами
 * [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
 * [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G58-SoLzCrUJQTS4ZEn8ZjL)
+* [Курс](https://el.nsu.ru/course/view.php?id=2396)
 
 ## Потоковые алгоритмы
 * [Github](https://github.com/ktblsva/streaming_algo_course)
