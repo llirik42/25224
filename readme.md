@@ -37,5 +37,5 @@
 * [Classroom](https://classroom.google.com/c/ODQzMTgyMzQ0MjIz)
 
 ## Семинар КОИ
-* [Яндекс Телемост](https://us05web.zoom.us/j/85837659799?pwd=YbD1IT3JsbgGtnxunRDjSPyL2bG7aS.1)
+* [Zoom](https://us05web.zoom.us/j/85837659799?pwd=YbD1IT3JsbgGtnxunRDjSPyL2bG7aS.1)
 * [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G6VLCNJ2DZhpoGWon31cLN4)
