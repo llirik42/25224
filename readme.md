@@ -14,29 +14,8 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
-## Английский
-* [Classroom](https://classroom.google.com/c/NzQyOTQyMDYyODgz)
-
-## Анализ данных и машинное обучение
-* [Google disk](https://drive.google.com/drive/u/0/folders/0AAAF8FuW7srQUk9PVA)
-* [Google Meet](https://meet.google.com/uis-bpmd-ufv)
-* [Яндекс Телемост](https://telemost.360.yandex.ru/j/6611682020)
-
-## Проектирование человеко-маш взаимодействия
-* [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
-* [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G7Nlr5jMXCjTcwWbdqkGICl)
-* [Курс](https://el.nsu.ru/course/view.php?id=2432)
-
-## Управление проектами
-* [Яндекс Телемост](https://telemost.yandex.ru/j/32723230076459)
-* [Контур Толк (а он знает толк)](https://serr1ft3.ktalk.ru/r5m5bttnnjxg)
-* [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G58-SoLzCrUJQTS4ZEn8ZjL)
-* [Курс](https://el.nsu.ru/course/view.php?id=2396)
-
-## Потоковые алгоритмы
-* [Github](https://github.com/ktblsva/streaming_algo_course)
-* [Classroom](https://classroom.google.com/c/ODQzMTgyMzQ0MjIz)
-
-## Семинар КОИ
-* [Zoom](https://us05web.zoom.us/j/85837659799?pwd=YbD1IT3JsbgGtnxunRDjSPyL2bG7aS.1)
-* [Записи](https://www.youtube.com/playlist?list=PL6h5Wx1Bj7G6VLCNJ2DZhpoGWon31cLN4)
+## Интеллектуальные системы
+* [Телемост семинаров](https://telemost.yandex.ru/j/63355325218170)
+* [Темы и даты выступлений](https://docs.google.com/document/d/14-MZJyDmLD1Xx0lC31nlCMsXleDX0EoENGC8d-SKnPg/edit?usp=sharing)
+* [Посещаемость и оценки](https://docs.google.com/spreadsheets/d/1WDJvJUbs4tNtRfGB-xoDuRqSSb9TqHSMhR7JzXuL36U/edit?usp=sharing)
+* [Курс на el.nsu.ru](https://el.nsu.ru/course/view.php?id=2469)
