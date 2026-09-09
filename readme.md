@@ -15,7 +15,17 @@
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
 ## Интеллектуальные системы
-* [Телемост семинаров](https://telemost.yandex.ru/j/63355325218170)
+* [Яндекс Телемост](https://telemost.yandex.ru/j/63355325218170)
 * [Темы и даты выступлений](https://docs.google.com/document/d/14-MZJyDmLD1Xx0lC31nlCMsXleDX0EoENGC8d-SKnPg/edit?usp=sharing)
 * [Посещаемость и оценки](https://docs.google.com/spreadsheets/d/1WDJvJUbs4tNtRfGB-xoDuRqSSb9TqHSMhR7JzXuL36U/edit?usp=sharing)
 * [Курс на el.nsu.ru](https://el.nsu.ru/course/view.php?id=2469)
+
+## Программирование графических процессоров
+* [Гугл-таблица](https://docs.google.com/spreadsheets/d/1ucwjNx_h6fMsy3icfXpxtziu24Eqr3qdQQ1pFSqeGwM/edit?gid=0#gid=0)
+
+## Нейронные сети и машинное обучение
+* [Google Classroom](https://classroom.google.com/u/1/c/ODc2NTM4NTI2NjQ5)
+* [Яндекс Телемост](https://telemost.yandex.ru/j/08366612489939)
+
+## Обработка цифровых изображений
+* [Яндекс Телемост](https://telemost.yandex.ru/j/35498461165329)
