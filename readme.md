@@ -14,6 +14,10 @@
 * [Отзывы о спецкурсах 1](https://docs.google.com/spreadsheets/d/13nwT1Rvx2nGKk5X-HvUG4pgHfoGywOY-FPtjuiEwVCc/edit)
 * [Отзывы о спецкурсах 2](https://docs.google.com/spreadsheets/d/1T10KwoBpWipcNhKn50e_nd_xfBTAzIQ3oVts_TUAzSs/edit)
 
+## СПИВТ
+* [Google Classroom](https://classroom.google.com/c/ODY5NDU1ODIxMDY2)
+* [Яндекс Телемост](https://telemost.yandex.ru/j/69066367660484)
+
 ## Интеллектуальные системы
 * [Яндекс Телемост](https://telemost.yandex.ru/j/63355325218170)
 * [Темы и даты выступлений](https://docs.google.com/document/d/14-MZJyDmLD1Xx0lC31nlCMsXleDX0EoENGC8d-SKnPg/edit?usp=sharing)
