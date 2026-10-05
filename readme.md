@@ -17,6 +17,7 @@
 ## СПИВТ
 * [Google Classroom](https://classroom.google.com/c/ODY5NDU1ODIxMDY2)
 * [Яндекс Телемост](https://telemost.yandex.ru/j/69066367660484)
+* [Сводная таблица](https://docs.google.com/document/d/1glpYbcQm0IkiImGc29rTk8FwsFP2G-SJ/edit)
 * [Записи занятий](https://www.youtube.com/playlist?list=PLJtK9vZSBLv0)
 
 ## Интеллектуальные системы
